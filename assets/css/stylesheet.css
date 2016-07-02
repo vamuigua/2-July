@@ -33,30 +33,57 @@ body{
 /*Video Button*/
 button {
   border: 0;
-  background: #0087cc;
-  border-radius: 4px;
-  box-shadow: 0 5px 0 #006599;
+  background: #DC211D;
+  border-radius: 5px;
+  box-shadow: 0 5px 0 #300706;
   color: #fff;
   cursor: pointer;
   font: inherit;
   margin: 0;
   outline: 0;
-  padding: 12px 20px;
+  padding: 20px 70px;
   margin-top: 150px;
   margin-left:-500px;
   transition: all .1s linear;
 }
 button:active {
-  box-shadow: 0 2px 0 #006599;
+  box-shadow: 0 2px 0 #300706;
   transform: translateY(3px);
 }
 
+a button{
+  font-size: 50px;
+}
 
 /*Video Frame*/
 iframe{
   float:right;
   margin-right: 20px;
   margin-top: -200px;
+}
+
+/*ABOUT*/
+.about p{
+  font-size: 30px;
+  background-color: rgba(181, 27, 24, 0.7);
+}
+
+.about h2{
+  font-size: 30px;
+  background-color: rgba(181, 27, 24, 0.7);
+}
+
+/*PEOPLE*/
+.people{
+  border: 3px;
+  float: left;
+  width: 40%;
+  background-color: rgba(181, 27, 24, 0.8);
+  text-align: center;
+}
+
+.people h2{
+  font-size: 35px;
 }
 
 /*Social Icons*/
