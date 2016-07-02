@@ -1,0 +1,87 @@
+body{
+  color: #fff;
+  background-color: #000000;
+  background-image: url(../img/deadpool-wallpaper_103703409_293.jpg);
+  background-size:cover;
+
+}
+/*Header*/
+img{
+  float:left;
+  height: 100%;
+  width: 100%;
+}
+
+.head-1 h1{
+  color: #fff;
+}
+
+.head-2 h2{
+  color: #FF2828;
+  margin-right:10px;
+  margin-top: 20px;
+  font-size: 150px;
+  font-weight: 200;
+  font-family: 'Slabo 27px', serif;
+  float: right;
+  text-align: center;
+}
+
+div h3{
+  color: #FF2828;
+  margin-right: 60px;
+  margin-top: -100px;
+  font-size: 100px;
+  font-weight: 200;
+  font-family: 'Slabo 27px', serif;
+  float: right;
+  text-align: center;
+  text-decoration:none;
+}
+
+/*Button*/
+.btn{
+  border: 5px solid #FF3016;
+  border-radius: 5px;
+  float: right;
+  margin-top: 100px;
+  margin-right: -550px;
+  font-size: 30px;
+  text-align: center;
+  color: #CF2712;
+  cursor: pointer;
+}
+
+/*Social Icons*/
+.foot{
+  background-color: rgba(43, 7, 6, 0.9);
+  margin-top: 500px;
+}
+
+#icons a{
+  display: inline-block;
+  text-decoration: none;
+  background-color: #CF1F1B;
+  color: #fff;
+}
+
+#icons a:hover{
+  color: rgba(199, 181, 207,0.7);
+  background-color:#F1706D;
+}
+
+.ig{
+  text-align: center;
+}
+
+.fb{
+  text-align: center;
+}
+
+.twitter{
+  text-align: center;
+}
+
+.pinterest{
+  text-align: center;
+}
