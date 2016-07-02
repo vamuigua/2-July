@@ -3,7 +3,6 @@ body{
   background-color: #000000;
   background-image: url(../img/Deadpool-Background-HD.jpg);
   background-size:cover;
-
 }
 /*Header*/
 
@@ -58,8 +57,8 @@ a button{
 /*Video Frame*/
 iframe{
   float:right;
-  margin-right: 20px;
-  margin-top: -200px;
+  margin-right: 40px;
+  margin-top: 0px;
 }
 
 /*ABOUT*/
@@ -75,7 +74,7 @@ iframe{
 
 /*PEOPLE*/
 .people{
-  border: 3px;
+  border: 10px solid #fff;
   float: left;
   width: 40%;
   background-color: rgba(181, 27, 24, 0.8);
