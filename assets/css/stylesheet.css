@@ -13,22 +13,28 @@ body{
   color: #fff;
 }
 
-.head-2 h2{
+.primary-header h2{
   color: #FF2828;
   margin-top:-40px;
   font-size: 100px;
   font-weight: 200;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merriweather', serif;
   float:left;
   text-align: center;
 }
 
+.primary-header h3{
+  color: #fff;
+  float: left;
+  font-size: 60px;
+  margin-left: -570px;
+}
 
 /*Video Frame*/
 iframe{
-  margin-right: 130px;
-  margin-top: -90px;
-  padding-top: -200px;
+  float: left;
+  margin-top: 140px;
+  margin-left: -570px;
 }
 
 /*Social Icons*/
