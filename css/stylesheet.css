@@ -61,8 +61,8 @@ div h3{
 #icons a{
   display: inline-block;
   text-decoration: none;
-  background-color: #fff;
-  color: #CF1F1B;
+  background-color: #CF1F1B;
+  color: #fff;
 }
 
 #icons a:hover{
