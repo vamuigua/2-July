@@ -2,6 +2,7 @@ body{
   color: #fff;
   background-color: #000000;
   background-image: url(../img/deadpool-wallpaper_103703409_293.jpg);
+  background-size: cover;
 
 }
 /*Header*/
@@ -39,3 +40,49 @@ div h3{
 }
 
 /*Button*/
+.btn{
+  border: 5px solid #FF3016;
+  border-radius: 5px;
+  float: right;
+  margin-top: 100px;
+  margin-right: -500px;
+  font-size: 30px;
+  text-align: center;
+  color: #CF2712;
+  cursor: pointer;
+}
+
+/*Social Icons*/
+.foot{
+  background-color: rgba(43, 7, 6, 0.9);
+  margin-top: 500px;
+}
+
+#icons a{
+  display: inline-block;
+  text-decoration: none;
+  background-color: #fff;
+  color: #CF1F1B;
+}
+
+#icons a:hover{
+  color: rgba(199, 181, 207,0.7);
+  background-color:#F1706D;
+}
+
+.ig{
+
+
+}
+
+.fb{
+
+}
+
+.twitter{
+
+}
+
+.pinterest{
+
+}
