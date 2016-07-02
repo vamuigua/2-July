@@ -1,55 +1,34 @@
 body{
   color: #fff;
   background-color: #000000;
-  background-image: url(../img/deadpool-wallpaper_103703409_293.jpg);
+  background-image: url(../img/Deadpool-Background-HD.jpg);
   background-size:cover;
 
 }
 /*Header*/
-img{
-  float:left;
-  height: 100%;
-  width: 100%;
-}
 
-.head-1 h1{
+
+.primary-header h1{
+  font-family: 'Montserrat', sans-serif;
   color: #fff;
 }
 
 .head-2 h2{
   color: #FF2828;
-  margin-right:10px;
-  margin-top: 20px;
-  font-size: 150px;
-  font-weight: 200;
-  font-family: 'Slabo 27px', serif;
-  float: right;
-  text-align: center;
-}
-
-div h3{
-  color: #FF2828;
-  margin-right: 60px;
-  margin-top: -100px;
+  margin-top:-40px;
   font-size: 100px;
   font-weight: 200;
-  font-family: 'Slabo 27px', serif;
-  float: right;
+  font-family: 'Montserrat', sans-serif;
+  float:left;
   text-align: center;
-  text-decoration:none;
 }
 
-/*Button*/
-.btn{
-  border: 5px solid #FF3016;
-  border-radius: 5px;
-  float: right;
-  margin-top: 100px;
-  margin-right: -550px;
-  font-size: 30px;
-  text-align: center;
-  color: #CF2712;
-  cursor: pointer;
+
+/*Video Frame*/
+iframe{
+  margin-right: 130px;
+  margin-top: -90px;
+  padding-top: -200px;
 }
 
 /*Social Icons*/
