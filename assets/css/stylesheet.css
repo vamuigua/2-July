@@ -88,7 +88,13 @@ iframe{
 /*Social Icons*/
 .foot{
   background-color: rgba(43, 7, 6, 0.9);
-  margin-top: 500px;
+  margin-top: 700px;
+}
+
+.foot p{
+  font-size: 40px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
 }
 
 #icons a{
@@ -96,6 +102,9 @@ iframe{
   text-decoration: none;
   background-color: #CF1F1B;
   color: #fff;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 #icons a:hover{
@@ -105,6 +114,7 @@ iframe{
 
 .ig{
   text-align: center;
+
 }
 
 .fb{
