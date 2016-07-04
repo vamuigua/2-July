@@ -22,6 +22,10 @@ body{
   padding: 10px 20px;
 }
 
+.nav:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
 .primary-header h1{
   font-family: 'Montserrat', sans-serif;
   color: #fff;
@@ -77,18 +81,23 @@ iframe{
 }
 
 /*ABOUT*/
-.about p{
+#about p{
   font-size: 30px;
   background-color: rgba(181, 27, 24, 0.7);
 }
 
-.about h2{
+#about h1{
+  font-size: 35px;
+  background-color: rgba(181, 27, 24, 0.7);
+}
+
+#about h2{
   font-size: 30px;
   background-color: rgba(181, 27, 24, 0.7);
 }
 
 /*PEOPLE*/
-.people{
+#people{
   border: 10px solid #fff;
   float: left;
   width: 40%;
@@ -96,7 +105,7 @@ iframe{
   text-align: center;
 }
 
-.people h2{
+#people h2{
   font-size: 35px;
 }
 
